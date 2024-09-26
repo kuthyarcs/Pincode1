@@ -36,7 +36,7 @@ country.add(arr1[5]);
 ```
 Create a For Loop to read all the 5 lines so that each ArrayList contains 5 items
 Now, ask user to input any pincode.  You need to give the corresponding location, town, district, state and country.  Eg.
-If input is 560100, then
+If input is 560100, then   
 	Location: Electronic City   
 	Town: Bangalore   
 	District: Bangalore   
@@ -61,7 +61,10 @@ insert into pincodes(pincode,location,town,district,state)values
 select * from pincodes;
 ```
 # Pincode - Step3 - Create REST API    
-# Pincode - Step4 - Deploy WAR file on Linode Cloud Server   
+# Pincode - Step4 - Deploy WAR file on Cloud Server   
 # Pincode - Step5 - Create Mobile App for Pincode   
 # Pincode - Step6 - Connect Mobile App to Java REST API   
-# Pincode - Step7 - Build Android APK and share with team   
+# Pincode - Step7 - Build Android APK and test  
+# Pincode - Step8 - Add Spring Security for Admin
+# Pincode - Step9 - Create API for Admin to add a pincode
+# Pincode - Step10 - Create API for Admin to upload pincode file
